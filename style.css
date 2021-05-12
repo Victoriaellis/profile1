@@ -1,0 +1,112 @@
+
+@media (max-width: 540px) {
+  .container {
+    width: 80%;
+  }
+  .h2 {
+    font-size: 15px;
+  }
+}
+
+@media (max-width: 720px) {
+  .container {
+    width: 70%;
+  }
+}
+
+@media (max-width: 960px) {
+  .container {
+    width: 70%;
+  }
+}
+
+h1 {
+  font-weight: bold;
+  color: #574573;
+  font-family: 'Raleway', sans-serif;
+  font-size: 35px;
+}
+
+img {
+  height: 160px;
+  width: auto;
+}
+
+body {
+  color: #745C99;
+  font-family: 'Varela Round', sans-serif;
+}
+
+h2 {
+  font-size: 25px;
+}
+
+p {
+  font-size: 20px;
+  padding: 10px;
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  list-style-type: none;
+  display: inline-block;
+  font-size: 40px;
+  padding: 0px 10px;
+}
+
+ul {
+  padding: 0px;
+}
+
+.icon {
+  color: #F1F2F8;
+}
+
+.icon:hover {
+  color: #745C99;
+}
+
+button {
+  color:#F0E6EF;
+  background-color: #DC2E82;
+  border-color: #DC2E82;
+  font-size: 17px;
+  padding: 10px 10px;
+}
+
+button:hover {
+  background-color: #574573;
+  border-color: #574573;
+}
+
+#first-card {
+  background-color: #ED96C0;
+}
+
+#intro {
+  font-style: italic;
+  color: #574573;
+}
+.container {
+    width: 70%;
+    margin: 15% auto;
+  }
+
+.card {
+  margin: 3% 0;
+  padding: 5% 0;
+  background-color: #C8CDE4;
+  box-shadow: 10px 5px 5px #E4E6F2;
+}
+
+
+.circle {
+  border-radius: 8px;
+}
+
+.center {
+  text-align: center;
+}
